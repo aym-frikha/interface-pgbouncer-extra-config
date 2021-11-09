@@ -1,0 +1,3 @@
+name: pgbouncer-extra-config
+summary: PostgreSQL client interface
+maintainer: '"Stuart Bishop" <stuart.bishop@canonical.com>'
